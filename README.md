@@ -1,5 +1,16 @@
 # Devops-project-1
 # Jenkins Pipeline for Java based application using Maven, SonarQube, Argo CD, Helm and Kubernetes
+![image](https://github.com/letscrackthis/Devops-project-1/assets/112326821/4ff46fba-a57e-45e7-85c8-a00747da6f5e)
+
+
+
+
+
+
+
+
+
+
 
 Here are the step-by-step details to set up an **end-to-end Jenkins pipeline for a Java application using SonarQube, Argo CD, Helm, and Kubernetes:**
 
